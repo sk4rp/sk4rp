@@ -1,7 +1,7 @@
 <h2 align="left">My name is Maxim and I'm a PHP developer, from Russia</h2>
 
 <p>
-    <img align="right" height="150" width="150" src="https://avatars.githubusercontent.com/u/78820282?v=4"/>
+    <img align="right" height="200" width="150" src="/image/jUbXeuHEHu4.jpg"/>
 
 Learning on my own and trying to develop in other languages
 	<article>
