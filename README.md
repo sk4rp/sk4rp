@@ -58,9 +58,6 @@ My approach to development combines a deep understanding of technology and a con
 
 Feel free to contact me:
 <div align="left">
-	<a href="https://www.twitch.tv/m4k50h" target="_blank">
-		<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-	</a>
 	<a href="https://t.me/maxxi228" target="_blank">
 		<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 	</a>
