@@ -11,7 +11,8 @@ I actively use Redis to cache data and speed up applications, and Elasticsearch 
 
 My skills also include working with queue management systems such as RabbitMQ and Kafka, which helps me handle asynchronous tasks efficiently. I also do application testing using PHPUnit, Feature tests, which allows me to maintain high quality code and functionality.
 
-In the area of security and authentication, I have implemented authorization mechanisms via OAuth with integration with providers such as Google, Discord, and Apple. My work also includes setting up CI/CD pipelines to automate application deployment and testing.
+In the area of security and authentication, I have implemented authorization mechanisms via OAuth with integration with providers such as Google, Discord, and Apple. Also had experience with integration with Telegram web-app.
+My work also includes setting up CI/CD pipelines to automate application deployment and testing.
 
 My approach to development combines a deep understanding of technology and a constant drive to learn new tools and techniques, which allows me to successfully solve complex problems and develop effective solutions.
 	</article>
